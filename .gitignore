@@ -1,0 +1,26 @@
+# Gradle / Build
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# OS
+.DS_Store
+
+# Env
+.env
+*.env
+application-local.yml
+
+# Logs
+*.log
+
+# Claude Code
+CLAUDE.md
+
+# 설계 산출물 (로컬 전용)
+docs/
